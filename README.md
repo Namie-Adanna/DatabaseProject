@@ -24,6 +24,8 @@ This project is a complete **Student Records Management System** built using **M
    USE studentRecordsDB;
 ---
 🖼️ ERD Screenshot
+![image](https://github.com/user-attachments/assets/85e8164f-44aa-4fd7-b346-718e0e81647d)
+
 
 👨‍💻 Author
 Naomi Chepkorir
