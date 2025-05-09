@@ -28,6 +28,6 @@ This project is a complete **Student Records Management System** built using **M
 
 
 👨‍💻 Author
-Naomi Chepkorir
-Email: namiekoks@gmail.com
-GitHub: Namie-Adanna
+-Naomi Chepkorir
+-Email: namiekoks@gmail.com
+-GitHub: Namie-Adanna
